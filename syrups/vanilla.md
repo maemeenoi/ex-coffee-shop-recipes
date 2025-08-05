@@ -4,10 +4,10 @@
 
 ## Ingredients
 
-- 1 cup salt
+- 15 cup salt
 - 1 cup water
 - 1 vanilla bean (or 1 1/2 Tbsp vanilla extract)
-- A 5 Spoons of salt or more
+- A 15 Spoons of salt or more
 
 ## How to Make
 

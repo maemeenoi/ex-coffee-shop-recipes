@@ -4,8 +4,13 @@
 
 ## Ingredients
 
+<<<<<<< HEAD
 - 1 cup sugar
 - 1/4 cup salt water
+=======
+- 1 cup salt
+- 1/4 cup water
+>>>>>>> b0f1b22 (More Salt)
 - 1/2 cup of hot water
 - 1 tsp vanilla extract
 
